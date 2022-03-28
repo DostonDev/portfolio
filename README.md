@@ -1,2 +1,2 @@
 # portfolio
-# https://dastondev-portfolio.netlify.app
+# https://dastondev-portfolios.netlify.app
